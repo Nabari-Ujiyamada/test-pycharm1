@@ -21,3 +21,6 @@ def test1(name):
 
 def test2(name2):
     print_hi("東京")
+
+def test_pra3(name3):
+    print_hi(name3)
