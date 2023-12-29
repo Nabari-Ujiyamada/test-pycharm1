@@ -18,3 +18,6 @@ if __name__ == '__main__':
 def test1(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')
+
+def test2(name2):
+    print_hi("東京")
